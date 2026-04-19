@@ -1,8 +1,8 @@
-## 📚 Udemy Clone Website
+##  Udemy Clone Website
 
 This project is a simple front-end clone of the popular online learning platform Udemy, built using **HTML** and **basic CSS**. It replicates the core layout and design elements of an e-learning website, focusing on structure, styling, and user interface.
 
-### 🚀 Features
+###  Features
 
 * Responsive homepage layout
 * Course listing sections
@@ -19,11 +19,11 @@ This project is a simple front-end clone of the popular online learning platform
 
 you can access my udemy clone website by visiting [link] feel free to explore the content and get in touch!
 
-### 📌 Purpose
+###  Purpose
 
 The goal of this project is to practice front-end development skills, especially layout design, positioning, and styling using pure HTML and CSS without any frameworks.
 
-### 🔗 Future Improvements
+###  Future Improvements
 
 * Add JavaScript for interactivity
 * Implement responsive design for mobile devices
